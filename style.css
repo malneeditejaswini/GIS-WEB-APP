@@ -1,0 +1,15 @@
+#header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+}
+
+h3 {
+  text-align: center;
+  /* height: auto; */
+}
+
+#bufferWidget {
+  text-align: center;
+}
