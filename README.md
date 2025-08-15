@@ -1,1 +1,2 @@
 # GIS-WEB-APP
+This application allows users to query various layers of data, such as hospitals registered with Medicare. When you change the visible layer, the attributes automatically update based on the selected layer. To perform a query, ensure the relevant layer is visible. For instance, if you want to find facilities within 50 miles, make sure the layer with the facilities is visible, enter the distance, and click "Find Facilities." The application will then display the available facilities within that radius.
